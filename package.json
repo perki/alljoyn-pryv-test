@@ -1,0 +1,14 @@
+{
+  "author": "Pryv SA <tech@pryv.com>",
+  "name": "alljoyn-test",
+  "description": "Pryv AllJoy Test",
+  "version": "0.0.1",
+  "private": true,
+  "homepage": "http://pryv.com",
+  "dependencies": {
+    "alljoyn": "~0.1.3",
+    "pryv": "~0.1.6"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
